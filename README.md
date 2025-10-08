@@ -1,4 +1,4 @@
-# Futures Quant EA - Independent Project by Abhijeet More (2023)
+# Adaptive Quant System - Independent Project by Abhijeet More (2023)
 Originally Developed in early 2023, A MetaTrader 5 Expert Advisor implementing rule-based EMA+RSI entries, risk-per-trade sizing, partial-close, breakeven and trailing logic, and time/spread filters. This EA was independently developed and tested by the author, the code are included for verification, dm for tested demo trade logs of code performances.
 
 Potential Impact - 

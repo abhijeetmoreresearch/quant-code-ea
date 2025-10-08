@@ -8,4 +8,6 @@ Potential Impact -
 4. Used Trailing Stop, Implements a simple trailing stop that activates after breakeven, trailing by a configurable distance to lock in profits during trends.
 5. Added New Bar Detection Refinement, enhanced with a static variable and time checks to ensure signals are only processed once per bar, reducing tick processing overhead by 90%+ in backtests.
 
+Disclaimer: Educational and research use only. Not financial advice. Use demo accounts first.
+
 |peace|
